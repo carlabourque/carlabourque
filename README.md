@@ -1,5 +1,5 @@
 ## Hi, I'm Carla 👋
-I'm a founder, CEO, and builder focused on AI, cybersecurity, and infrastructure. I care about turning hard problems in risk, intelligence, and operations into products that create measurable mission impact and value.
+A global operating executive, 3x CEO, founder, and builder focused on AI, cybersecurity, and infrastructure. I care about turning hard problems in risk, intelligence, and operations into products that create measurable mission impact and value.
 
 - Background scaling data and intelligence businesses with PE/VC sponsors
 - Currently working on AI-enabled threat intelligence and diagnostic tooling for national security, law enforcement, and defense operators
